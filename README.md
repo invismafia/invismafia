@@ -1,5 +1,5 @@
 <div align="center">
-   art by frojuice
+   art by froujuice
 </div>
 
 <div align="center">
